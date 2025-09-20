@@ -1,1 +1,1 @@
-# Project 3: Inel localization
+# Project 3: Intel localization
